@@ -1,0 +1,12 @@
+briana-portfolio/
+├─ index.html
+├─ img/
+│  ├─ briana-workspace.jpg
+│  ├─ badge-admin.png
+│  ├─ badge-mces.png
+│  └─ badge-ai.png
+└─ docs/
+   ├─ briana-resume.pdf
+   ├─ cert-admin.pdf
+   ├─ cert-mces.pdf
+   └─ cert-ai.pdf
